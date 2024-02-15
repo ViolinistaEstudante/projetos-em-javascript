@@ -1,12 +1,33 @@
 # 10 AULAS DE PROJETOS EM HTML, CSS E JAVASCRIPT
-Aula 1 - Cauculadora IMC
-Aula 2 - Lâmpada
-Aula 3 - Semáforo
-Aula 4 - Bateria "ainda desenvolvendo"
-Aula 5 - Lista de tarefas
-Aula 6 - Cadastramento
-Aula 7 - Netflix Login
-Aula 8 - Quiz
-Aula 9 - Jogo das cores
-Aula 10 - Cronômetro
-
+<ol>
+  <li>
+    Aula 1 - Cauculadora IMC
+  </li>
+   <li>
+    Aula 2 - Lâmpada
+  </li>
+   <li>
+    Aula 3 - Semáforo
+  </li>
+  <li>
+   Aula 4 - Bateria "ainda desenvolvendo"
+  </li>
+    <li>
+   Aula 5 - Lista de tarefas
+  </li>
+  <li>
+   Aula 6 - Cadastramento
+  </li>
+    <li>
+   Aula 7 - Netflix Login
+  </li>
+  <li>
+   Aula 8 - Quiz
+  </li>
+  <li>
+  Aula 9 - Jogo das cores
+  </li>
+   <li>
+  Aula 10 - Cronômetro
+  </li>
+</ol>
