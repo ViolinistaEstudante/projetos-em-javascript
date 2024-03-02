@@ -30,4 +30,7 @@
    <li>
   Cronômetro
   </li>
+  <li>
+  Álbum De Figurinhas
+  </li>
 </ol>
