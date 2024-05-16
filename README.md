@@ -33,4 +33,7 @@
   <li>
   Álbum De Figurinhas
   </li>
+  <li>
+  Paint
+  </li>
 </ol>
