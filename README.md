@@ -1,7 +1,7 @@
 # 10 AULAS DE PROJETOS EM HTML, CSS E JAVASCRIPT
 <ol>
   <li>
-  Cauculadora IMC
+  Cauculadora IMC 
   </li>
    <li>
   Lâmpada
@@ -10,7 +10,7 @@
   Semáforo
   </li>
   <li>
-  Bateria "ainda desenvolvendo"
+  Bateria [🔒]
   </li>
     <li>
   Lista de tarefas
